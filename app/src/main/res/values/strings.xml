@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Quit Smoking App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="CongratScreenTitle">Təbriklər!</string>
+    <string name="CongratScreenText">Deməli,siqareti tərgitməy qərarını aldınız\n\nBu, indiyə qədər verdiyiniz ən yaxşı və ən vacib qərarlardan biridir\n\nİndiyədək milyonlarla insan siqareti tərgidə bilib\n\nBunu siz də bacara bilərsiniz</string>
+    <string name="CongratScreenBottom">Başlayaq!</string>
+    <string name="ApproachScreenTitle">Strateji yanaşma</string>
+    <string name="NextText">Növbəti</string>
+    <string name="ApproachScreenText">Bu tətbiq mənə siqareti tərgitməyə necə köməy olacaq?\n\nƏgər tərgitməktə ciddi deyilsinizsə, bu çətin olacaq.Amma həqiqətən tərgitmək istəyirsinizsə ,bu tətbiq sizə çox kömək olacaq.\n\nSiqareti tərgitmək üçün çox müxtəlif üsullar var.Amma milyonlarla siqaret istifadəçisinin təcrübəsi göstərir ki,motivasiya ilə uğura çatmaq olar.\n\nBu tətbiq sizə test edilmiş və sınanılmış üsullar ilə kömək edəcək.</string>
+    <string name="InformationScreenTitle">1.Məlumat</string>
+    <string name="InformationScreenText">Hərkəs bilirki siqaret çəkmək sağlamlığa ziyan vurur,amma heç kəs dəqiq olaraq siqaret çəkməyin insan bədəninə və psixologiyasına nə ziyan vurduğunu bilmir.\n\nSiqaretin zərərləri haqqında dərindən bilmək sizə siqaret asılılığından qurtulmağınıza kömək olur,beləliklə siz verdiyiniz qərardan daha əmin olursunuz və bu da sizin siqareti atmağınıza kömək olur.\n\nBu tətbiq sizə siqaret haqqında böyük ölçüdə dəqiqliklə araşdırılmış məlumatlar təqdim edir.</string>
+    <string name="MotivationScreenTitle">2.Motivasiya</string>
+    <string name="MotivationScreenText">Motivasiya həyatınızın gedişində əldə edəcəyiniz bir çox uğurların mühərrikidir. Buna görə də, siqareti tərgitdiyiniz müddətdə motivasiyalı olmanız vacibdir. Motivasiyanız siqareti tərgitməyin müxtəlif mərhələlərindən keçməyinizə kömək edəcək və sizi yenidən başlamanıza mane olacaq.\n\nSiqaretin təsirindən qorxmaq motivator ola bilər, lakin irəliləyiş və məqsədlərə çatmaq da motivasiya edə bilər.\n\nBu proqramlar sizə motivasiya əldə etmək üçün istifadə etdiyiniz biliklər verir və irəliləyiş və əldə edilmiş məqsədləri göstərməklə motivasiyalı qalırsınız</string>
+    <string name="ParticipationScreenText">Aktiv iştirakınız siqareti buraxdığınız zaman uğur şansınızı artırır.\n\nBu proqram sizə öyrəndiyiniz bilikləri əks etdirmək, qərarınıza inandırmaq və motivasiyanı yüksək saxlamaq məqsədi daşıyan kiçik tapşırıqlar verir. Hədəflər qoymaq və nailiyyətlərinizi bölüşmək üçün alətlər də var.\n\nSiqaret çəkməyən şəxs kimi nailiyyətləriniz, eləcə də sağlamlığınızdakı irəliləyişlər və siqaretə qarşı fiziki reaksiyalar göstərilir. Bunun üçün tətbiqə siqaret çəkmə davranışınızla bağlı bəzi məlumatlar lazımdır.</string>
+    <string name="ParticipationScreenTitle">3.İştirak</string>
+    <string name="StopScreenTitle">Dayanma tarixi</string>
+    <string name="StopScreenText">Siqareti dayandırdığınız tarixi və ya bu günü daxil edin. Bu tarix gələcəkdə ola bilməz. Əgər hələ də siqaret çəkirsinizsə və indi çıxmaq istəmirsinizsə, həqiqətən siqareti dayandırdığınız zaman tətbiqdən istifadə etməyə başlayın.</string>
+    <string name="CigarettesDayScreenTitle">Siqaret/Gün</string>
+    <string name="CigarettesDayScreenText">Gündə çəkdiyiniz siqaretlərin orta sayını daxil edin</string>
+    <string name="CigarettesPackScreenTitle">Siqaret/Paket</string>
+    <string name="CigarettesPackScreenText">Paketə daxil olan siqaretlərin sayını daxil edin</string>
+
+</resources>

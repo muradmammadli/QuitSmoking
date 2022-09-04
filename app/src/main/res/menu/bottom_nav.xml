@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Əsas"
+        android:id="@+id/home"
+        android:icon="@drawable/number"/>
+    <item android:title="Sağlamlıq"
+        android:id="@+id/health"
+        android:icon="@drawable/heart"/>
+    <item android:title="100 gün"
+        android:id="@+id/day100"
+        android:icon="@drawable/day100"/>
+
+
+</menu>
